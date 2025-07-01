@@ -1,4 +1,4 @@
-# Github-vscode-icons
+#go Github-vscode-icons
 
 [![Build Status](https://travis-ci.org/dderevjanik/github-vscode-icons.svg?branch=master)](https://travis-ci.org/dderevjanik/github-vscode-icons)
 [![Known Vulnerabilities](https://snyk.io/test/github/dderevjanik/github-vscode-icons/badge.svg)](https://snyk.io/test/github/dderevjanik/github-vscode-icons)
