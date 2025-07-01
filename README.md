@@ -38,3 +38,12 @@ After that, you need run script called `npm run preprocess`, which will generate
 
 - [vscode-icons](https://github.com/vscode-icons/vscode-icons) extension for vscode
 - [vscode-icons-js](https://github.com/dderevjanik/vscode-icons-js) File specific icons from vscode [vscode-icons](https://github.com/vscode-icons/vscode-icons) extension inspired by file-icons-js
+
+# Maps
+build/*.js.map
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
